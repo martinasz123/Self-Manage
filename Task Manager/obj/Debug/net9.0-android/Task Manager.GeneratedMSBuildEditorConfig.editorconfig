@@ -18,6 +18,12 @@ build_property.EnableGeneratedComInterfaceComImportInterop =
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
+[/Users/martinsomogyi/Documents.local/PersonalProjects/Self-Manage/Task Manager/AddProjectPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Task_Manager.AddProjectPage.xaml
+build_metadata.AdditionalFiles.TargetPath = AddProjectPage.xaml
+build_metadata.AdditionalFiles.RelativePath = AddProjectPage.xaml
+
 [/Users/martinsomogyi/Documents.local/PersonalProjects/Self-Manage/Task Manager/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Task_Manager.App.xaml

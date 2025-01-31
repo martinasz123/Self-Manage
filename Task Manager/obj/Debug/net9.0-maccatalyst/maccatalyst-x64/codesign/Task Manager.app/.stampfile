@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - --entitlements /Users/martinsomogyi/Documents.local/PersonalProjects/Self-Manage/Task Manager/obj/Debug/net9.0-maccatalyst/maccatalyst-x64/Entitlements.xcent /Users/martinsomogyi/Documents.local/PersonalProjects/Self-Manage/Task Manager/bin/Debug/net9.0-maccatalyst/maccatalyst-x64/Task Manager.app
