@@ -295,23 +295,10 @@
 /Users/martinsomogyi/Documents.local/PersonalProjects/Self-Manage/Task Manager/obj/Debug/net9.0-maccatalyst/maccatalyst-x64/Task Manager.pdb
 /Users/martinsomogyi/Documents.local/PersonalProjects/Self-Manage/Task Manager/obj/Debug/net9.0-maccatalyst/maccatalyst-x64/Task Manager.genruntimeconfig.cache
 /Users/martinsomogyi/Documents.local/PersonalProjects/Self-Manage/Task Manager/obj/Debug/net9.0-maccatalyst/maccatalyst-x64/ref/Task Manager.dll
+/Users/martinsomogyi/Documents.local/PersonalProjects/Self-Manage/Task Manager/obj/Debug/net9.0-maccatalyst/maccatalyst-x64/Task Manager.sourcelink.json
 /Users/martinsomogyi/Documents.local/PersonalProjects/Self-Manage/Task Manager/bin/Debug/net9.0-maccatalyst/maccatalyst-x64/Microsoft.Maui.Controls.HotReload.Forms.dll
 /Users/martinsomogyi/Documents.local/PersonalProjects/Self-Manage/Task Manager/bin/Debug/net9.0-maccatalyst/maccatalyst-x64/Microsoft.VisualStudio.DesignTools.MobileTapContracts.dll
 /Users/martinsomogyi/Documents.local/PersonalProjects/Self-Manage/Task Manager/bin/Debug/net9.0-maccatalyst/maccatalyst-x64/Microsoft.VisualStudio.DesignTools.TapContract.dll
-/Users/martinsomogyi/Documents.local/PersonalProjects/Self-Manage/Task Manager/obj/Debug/net9.0-maccatalyst/maccatalyst-x64/resourcestamps/Microsoft.Extensions.Configuration.Abstractions.stamp
-/Users/martinsomogyi/Documents.local/PersonalProjects/Self-Manage/Task Manager/obj/Debug/net9.0-maccatalyst/maccatalyst-x64/resourcestamps/Microsoft.Extensions.Configuration.stamp
-/Users/martinsomogyi/Documents.local/PersonalProjects/Self-Manage/Task Manager/obj/Debug/net9.0-maccatalyst/maccatalyst-x64/resourcestamps/Microsoft.Extensions.DependencyInjection.Abstractions.stamp
-/Users/martinsomogyi/Documents.local/PersonalProjects/Self-Manage/Task Manager/obj/Debug/net9.0-maccatalyst/maccatalyst-x64/resourcestamps/Microsoft.Extensions.DependencyInjection.stamp
-/Users/martinsomogyi/Documents.local/PersonalProjects/Self-Manage/Task Manager/obj/Debug/net9.0-maccatalyst/maccatalyst-x64/resourcestamps/Microsoft.Extensions.Logging.Abstractions.stamp
-/Users/martinsomogyi/Documents.local/PersonalProjects/Self-Manage/Task Manager/obj/Debug/net9.0-maccatalyst/maccatalyst-x64/resourcestamps/Microsoft.Extensions.Logging.Debug.stamp
-/Users/martinsomogyi/Documents.local/PersonalProjects/Self-Manage/Task Manager/obj/Debug/net9.0-maccatalyst/maccatalyst-x64/resourcestamps/Microsoft.Extensions.Logging.stamp
-/Users/martinsomogyi/Documents.local/PersonalProjects/Self-Manage/Task Manager/obj/Debug/net9.0-maccatalyst/maccatalyst-x64/resourcestamps/Microsoft.Extensions.Options.stamp
-/Users/martinsomogyi/Documents.local/PersonalProjects/Self-Manage/Task Manager/obj/Debug/net9.0-maccatalyst/maccatalyst-x64/resourcestamps/Microsoft.Extensions.Primitives.stamp
-/Users/martinsomogyi/Documents.local/PersonalProjects/Self-Manage/Task Manager/obj/Debug/net9.0-maccatalyst/maccatalyst-x64/resourcestamps/Microsoft.Maui.Controls.stamp
 /Users/martinsomogyi/Documents.local/PersonalProjects/Self-Manage/Task Manager/obj/Debug/net9.0-maccatalyst/maccatalyst-x64/resourcestamps/Microsoft.Maui.Controls.HotReload.Forms.stamp
-/Users/martinsomogyi/Documents.local/PersonalProjects/Self-Manage/Task Manager/obj/Debug/net9.0-maccatalyst/maccatalyst-x64/resourcestamps/Microsoft.Maui.Controls.Xaml.stamp
-/Users/martinsomogyi/Documents.local/PersonalProjects/Self-Manage/Task Manager/obj/Debug/net9.0-maccatalyst/maccatalyst-x64/resourcestamps/Microsoft.Maui.stamp
-/Users/martinsomogyi/Documents.local/PersonalProjects/Self-Manage/Task Manager/obj/Debug/net9.0-maccatalyst/maccatalyst-x64/resourcestamps/Microsoft.Maui.Essentials.stamp
-/Users/martinsomogyi/Documents.local/PersonalProjects/Self-Manage/Task Manager/obj/Debug/net9.0-maccatalyst/maccatalyst-x64/resourcestamps/Microsoft.Maui.Graphics.stamp
 /Users/martinsomogyi/Documents.local/PersonalProjects/Self-Manage/Task Manager/obj/Debug/net9.0-maccatalyst/maccatalyst-x64/resourcestamps/Microsoft.VisualStudio.DesignTools.MobileTapContracts.stamp
 /Users/martinsomogyi/Documents.local/PersonalProjects/Self-Manage/Task Manager/obj/Debug/net9.0-maccatalyst/maccatalyst-x64/resourcestamps/Microsoft.VisualStudio.DesignTools.TapContract.stamp
