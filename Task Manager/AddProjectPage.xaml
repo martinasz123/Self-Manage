@@ -4,15 +4,27 @@
              x:Class="Task_Manager.AddProjectPage"
              Title="New Project">
     <VerticalStackLayout>
-        <Label 
-            Text="Add a new project here!"
-            VerticalOptions="Center" 
-            HorizontalOptions="Center" />
-    </VerticalStackLayout>
-    <Label Text =" Project name: "/>
-    <Entry
+        <HorizontalStackLayout>
+        <Entry
             Placeholder="Enter the project name: " 
             WidthRequest ="300" 
             VerticalOptions="Center"/>
+        <Label Text="Select start date: "/>
+        <DatePicker MinimumDate="01/01/2022"
+            MaximumDate="12/31/2040"
+            Date="06/21/2022" />
+        <Label Text="Select finish date: "/>
+        <DatePicker MinimumDate="01/01/2022"
+            MaximumDate="12/31/2022"
+            Date="06/21/2050" />
+        </HorizontalStackLayout>
+        <HorizontalStackLayout>
+            <Entry
+                Placeholder="Project Description: "
+                VerticalOptions="Start"
+                HorizontalOptions="Fill"/>
+        </HorizontalStackLayout>
+    </VerticalStackLayout>
+    
             
 </ContentPage>

@@ -299,6 +299,3 @@
 /Users/martinsomogyi/Documents.local/PersonalProjects/Self-Manage/Task Manager/bin/Debug/net9.0-maccatalyst/maccatalyst-x64/Microsoft.Maui.Controls.HotReload.Forms.dll
 /Users/martinsomogyi/Documents.local/PersonalProjects/Self-Manage/Task Manager/bin/Debug/net9.0-maccatalyst/maccatalyst-x64/Microsoft.VisualStudio.DesignTools.MobileTapContracts.dll
 /Users/martinsomogyi/Documents.local/PersonalProjects/Self-Manage/Task Manager/bin/Debug/net9.0-maccatalyst/maccatalyst-x64/Microsoft.VisualStudio.DesignTools.TapContract.dll
-/Users/martinsomogyi/Documents.local/PersonalProjects/Self-Manage/Task Manager/obj/Debug/net9.0-maccatalyst/maccatalyst-x64/resourcestamps/Microsoft.Maui.Controls.HotReload.Forms.stamp
-/Users/martinsomogyi/Documents.local/PersonalProjects/Self-Manage/Task Manager/obj/Debug/net9.0-maccatalyst/maccatalyst-x64/resourcestamps/Microsoft.VisualStudio.DesignTools.MobileTapContracts.stamp
-/Users/martinsomogyi/Documents.local/PersonalProjects/Self-Manage/Task Manager/obj/Debug/net9.0-maccatalyst/maccatalyst-x64/resourcestamps/Microsoft.VisualStudio.DesignTools.TapContract.stamp
